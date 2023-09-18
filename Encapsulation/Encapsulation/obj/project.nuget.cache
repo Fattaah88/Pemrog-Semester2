@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlaId0kXJknM+ogvCsRnxGtfxIFrXM3toaQEzJ1If0FBCBgFEUw8X87793+HZzX9sPY6zkPMwfL4XjbzjaYv4Q==",
+  "success": true,
+  "projectFilePath": "E:\\tata\\Pemrog\\UAS PEMROG\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

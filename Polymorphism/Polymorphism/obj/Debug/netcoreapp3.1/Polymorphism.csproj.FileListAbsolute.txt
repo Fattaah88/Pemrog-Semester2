@@ -1,0 +1,14 @@
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+E:\tata\Pemrog\UAS PEMROG\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+E:\tata\Pemrog\UAS PEMROG\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.AssemblyReference.cache
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+E:\tata\Pemrog\UAS PEMROG\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJh2zm4CjBC4NJO0I/BVTghL2DXncGYYFg9wr/+3T4cTL8h1iehFTFmmkHQd3E+78gDq3mVQU0zMtmq44ycMVQ==",
+  "success": true,
+  "projectFilePath": "E:\\tata\\Pemrog\\UAS PEMROG\\Abstraction\\Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
